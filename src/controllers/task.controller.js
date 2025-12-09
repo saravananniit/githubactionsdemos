@@ -1,7 +1,7 @@
 const taskService = require('../services/task.service');
 
 /**
- * Get all tasks
+ * Get all tasks file modified.
  */
 const getAllTasks = async (req, res, next) => {
   try {
